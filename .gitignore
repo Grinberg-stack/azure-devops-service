@@ -1,0 +1,20 @@
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables and secrets
+.env
+PAT.txt
+
+# Docker files
+*.log
+docker-compose.override.yml
+
+# Virtual environments
+venv/
