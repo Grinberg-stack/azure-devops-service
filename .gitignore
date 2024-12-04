@@ -14,7 +14,7 @@ PAT.txt
 
 # Docker files
 *.log
-docker-compose.override.yml
 
 # Virtual environments
 venv/
+.idea/
